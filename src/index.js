@@ -125,7 +125,7 @@ function removeProjectileByIndex(index) {
   projectiles.splice(index, 1);
 }
 
-function increaseScore(){
+function increaseScore() {
   score += 250;
   scoreElement.innerHTML = score;
 }
