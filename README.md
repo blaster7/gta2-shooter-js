@@ -1,8 +1,18 @@
-# GTA2
-
-Для установки пакетов используйте команду npm install
+# Игра GTA2 Shooter - [Demo](https://blaster7.github.io/gta2-shooter-js/)
+```
+Для управления используйте мышку!
+```
+<br />
+<div align="center">
+  <img src="./src/img/gta2-shooter-js.png" />
+</div>
+<br />
 
 ## Команды
+### Для установки пакетов используйте команду
+```shell
+npm install
+```
 
 ### Запуск сервера для разработки
 ```shell
