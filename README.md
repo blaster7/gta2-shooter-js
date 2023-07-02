@@ -1,4 +1,4 @@
-# Игра GTA2 Shooter - [Demo](https://blaster7.github.io/gta2-shooter-js/)
+# Игра GTA2 Shooter - [Demo](https://master--harmonious-centaur-88e3e4.netlify.app/)
 ```
 Для управления используйте мышку!
 ```
